@@ -1,7 +1,7 @@
 # CS300
 CS 300
 
-What was the problem you were solving in the projects for this course?
+What was the problem you were solving in the projects for this course? 
   In this course we used three seperate data structures to load, search, delete, and update bids in our programs. In our final projects we were designing a program to showcase 
   courses for computer science students. 
 
